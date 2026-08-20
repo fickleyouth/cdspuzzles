@@ -1,6 +1,4 @@
 display_name,stub
-# dropdown_parent
-# uncooment dropdown_parent if a dropdown is needed 
 Home,/
 Browse,/browse.html
 Subjects,/subjects.html
