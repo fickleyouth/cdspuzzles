@@ -3,10 +3,10 @@ title,Title,
 creator,Creator,
 date,Date Created,
 description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
+publisher,Publishers
+difficulty,Difficulty,true
+notes,Notes
+donor,Donor,true
 source,Source
 identifier,Source Identifier,,
 type,Type,
