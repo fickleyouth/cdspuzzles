@@ -1,5 +1,5 @@
 display_name,stub
-#,dropdown_parent
+#dropdown_parent
 #uncooment dropdown_parent if a dropdown is needed 
 Home,/
 Browse,/browse.html
